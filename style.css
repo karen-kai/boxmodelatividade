@@ -1,0 +1,35 @@
+div {
+    height: 400px;
+    width: 400px;
+
+    border-width: 10px;
+    border-style: dotted;
+    border-color: blue;
+    border-radius: 1%;
+
+    background-image: url();
+    text-align: center;
+    box-shadow: inset 6px 6px 23px 23px green;
+    background-size: cover;
+
+    /* padding-top: 50px;
+    padding-left: 10px;
+    padding-right: 50px;
+    padding-bottow: 10px; */
+    padding: 10px;
+
+    outline-width: 36px;
+    outline-style: groove;
+    outline-color: rgb(red, green, blue);
+
+    margin: auto;
+    margin-top: 100px;
+
+}
+
+p {padding-top: 100px;
+font-style: italic;
+font-size: 50px;
+color: green;
+fonte-weight: bold;
+}}
